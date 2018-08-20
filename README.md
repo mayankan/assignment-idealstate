@@ -1,4 +1,4 @@
-# idealstate
+# IdealState
 Exchanging money from Total Expense to reach ideal state
 
 Ideal Transaction Problem

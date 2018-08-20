@@ -19,8 +19,11 @@ You are free to choose any suitable data structure to represent the transaction 
 Sample Output :
 
 ‘M1’ : {‘M2: 0, ‘M3’ : 250’, ‘M4’:’100’} 
+
 ‘M2’ : {‘M1: 100, ‘M3’ : 700’, ‘M4’:’100’} 
+
 ‘M3’ : {‘M2: 10, ‘M1’ : 25’, ‘M4’:’10’}
+
 ‘M4’ : {‘M2: 10, ‘M3’ : 80’, ‘M1’:’25’} 
 
 You must return the output for each individual transaction.

@@ -1,18 +1,17 @@
-# Problem Set to achieve Best Combination from a set of Miscellaneous Multiple Orders
-Exchanging money from Total Expense to reach ideal state
+# Optimised Splitting Amount Problem
 
-Ideal Transaction Problem
+Description : Problem Set to achieve optimised splitting of money between members paying differenct amounts for different items.
+Exchanging money from Total Expense to reach ideal state.
 
-At ACE we often perform monetary transactions for various purposes like digital printing, IT service and infrastructure cost, and expenses on informal materials and services.
+We often perform monetary transactions for various purposes like digital printing, IT service and infrastructure cost, and expenses on informal materials and services.
 
-Refer to the following sample transaction table:
+Refer to the following table:
 
-S.no
-Item/Service      M1      M2      M3      M4      Total
-1. Food           100     150     0       500     750
+S.no  Item/Service      M1      M2      M3      M4      Total
+1.    Food              100     150     0       500     750
 
 Let’s call each row a ‘transaction’
-In an ideal case, each member ( M1, M2, M3, M4 ) should contribute equally in all transactions. However, it is not always the case ( except for 3rd transaction).
+In an ideal case, each member ( M1, M2, M3, M4 ) should contribute equally in all transactions. However, it is not always the case (except for 3rd transaction).
 Your goal is to derive an algorithm that accepts a transaction table and evaluates “who pays how much to whom” to reach the “ideal state”.
 
 You are free to choose any suitable data structure to represent the transaction table.

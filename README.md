@@ -1,6 +1,6 @@
 # Optimised Splitting Amount Problem
 
-Description : Problem Set to achieve optimised splitting of money between members paying differenct amounts for different items.
+Description : Problem Set to achieve optimised splitting of money between members paying different amounts for different items.
 Exchanging money from Total Expense to reach ideal state.
 
 We often perform monetary transactions for various purposes like digital printing, IT service and infrastructure cost, and expenses on informal materials and services.

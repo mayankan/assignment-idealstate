@@ -1,4 +1,4 @@
-# IdealState
+# Problem Set to achieve Best Combination from a set of Miscellaneous Multiple Orders
 Exchanging money from Total Expense to reach ideal state
 
 Ideal Transaction Problem
